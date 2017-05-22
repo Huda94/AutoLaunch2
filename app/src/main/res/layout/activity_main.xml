@@ -33,11 +33,11 @@
     <Button
         android:id="@+id/SendEmail"
         android:layout_width="170dp"
+        android:layout_height="27dp"
         android:layout_marginBottom="50dp"
-        android:layout_marginTop="20dp"
-        android:background="@color/colorAccent"
         android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
         android:onClick="process"
-        android:layout_height="48dp"
         android:text="Send Email" />
 </LinearLayout>
